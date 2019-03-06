@@ -1,0 +1,41 @@
+p{
+    color:black;
+    }
+    body{
+      background-color:white;
+    }
+    #warning{
+      color:red;
+      text-align:center;
+    }
+    .list{
+      text-transform:uppercase;
+    }
+    p b{
+      color:black;
+    }
+    h1,h2,h3,h4{
+      font-variant:small-caps;
+      color:darkorchid;
+    }
+    a{
+      color:crimson;
+    }
+    li a{
+      text-decoration:none;
+    }
+    a:hover{
+      font-style:italic;
+    }
+    a:link{
+      color:blue;
+    }
+    a:visited{
+      color:deeplink;
+    }
+    a:active{
+      background-color:cadetblue;
+    }
+    p:hover{
+      font-size:large;
+    }
